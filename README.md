@@ -4,7 +4,7 @@
 **Date:** April 2026
 **License:** MIT
 
-Crowd busyness estimates for all 13 MRT-3 stations in Metro Manila by station, day, and hour. Derived from official DOTr ridership data and documented peak hour research. April 2026.
+Crowd busyness estimates for all 13 MRT-3 stations in Metro Manila by station, day of week, and hour of day. Derived from official DOTr ridership figures (baseline: 468,000 daily commuters, April 2026) using a weighted distribution model across 18 operating hours and 13 station-level load factors. Busyness scores (0–100) map to four crowd classes across confirmed weekday peaks (6–8 AM, 5–7 PM) and weekend afternoon surges. 1,638 rows. April 2026.
 
 ---
 
